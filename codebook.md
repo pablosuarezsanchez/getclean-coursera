@@ -28,7 +28,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ## Modifications
 
-- Training and the test sets to create one data set were merged
+- Training and the test sets were merged to create one data set
 - Only the measurements on the mean and standard deviation for each measurement were extracted.
 - Descriptive activity names to name the activities in the data set were set
 - Additionaly I labeled the the data set features with descriptive variable names.
